@@ -1,9 +1,8 @@
 # videototal
 A command tool to count videos in current directory.
 ```bash
-me@DESKTOP-E2PK0C9 MINGW64 /d/videos
-$ videototal.exe
-videos in D:\videos:
+$ videototal
+videos in D:\my_videos:
 25 videos, 57h46m25.27s, 18.94 GB
 ```
 
